@@ -12,8 +12,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a align="center" href="https://instagram.com/onajkun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="onajlikezz" height="30" width="40" /></a>
-<a align="center" href="https://discord.gg/https://discord.gg/Kj64D4ddtK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Kj64D4ddtK" height="30" width="40" /></a>
+<a align="center" href="https://instagram.com/r2x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="onajlikezz" height="30" width="40" /></a>
+<a align="center" href="https://discord.gg/tMV3Pfh8Cq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Kj64D4ddtK" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -25,10 +25,6 @@
 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=onajlikezz&show_icons=true&locale=en&layout=compact" alt="onajlikezz" /></p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onajlikezz&show_icons=true&locale=en" alt="onajlikezz" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onajlikezz&" alt="onajlikezz" /></p>
 
 
 <p align="center">
